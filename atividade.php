@@ -1,7 +1,7 @@
 <?php
         echo "<br>";
             $idade = 16;
-            if($idade > 65){              
+            if($idade >= 65){              
                 echo $idade." anos, O uso tem que ser com restrições"; 
             }
             elseif($idade >= 16){
