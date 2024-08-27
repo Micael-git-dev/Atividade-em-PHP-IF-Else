@@ -8,6 +8,6 @@
                 echo $idade." anos, Pode usar o medicamento";        
             }
             else {
-                    echo  $idade." anos, é proibido o uso do medicamento";
+                echo  $idade." anos, é proibido o uso do medicamento";
                 }
         ?>
